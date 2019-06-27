@@ -1,2 +1,5 @@
 *.o
 *.a
+
+# for ignoring all inside build folder
+build/
